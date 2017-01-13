@@ -1,5 +1,6 @@
 test:
-  override: bash test.sh
+  override:
+    - bash test.sh
 
 deployment:
   webhooks:
