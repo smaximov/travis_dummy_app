@@ -2,6 +2,6 @@ test:
   override:
     - bash test.sh
 
-deployment:
+notify:
   webhooks:
     - url: https://0eb8c346.ngrok.io/webhooks/travis
