@@ -4,4 +4,4 @@ test:
 
 notify:
   webhooks:
-    - url: https://b6378f18.ngrok.io/webhooks/travis
+    - url: https://b6378f18.ngrok.io/webhooks/circle
