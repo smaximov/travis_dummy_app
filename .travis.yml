@@ -1,0 +1,6 @@
+script:
+  - bash test.sh
+
+notifications:
+  webhooks:
+    - https://378e3557.ngrok.io/webhooks/circle
